@@ -4,7 +4,7 @@ GP classification — location-only model (ARD-2 Matérn-5/2 kernel).
   Kernel    : ScaleKernel(Matérn-5/2, ARD-2) on (x, y): independent ls_x, ls_y
               Focal players converge to ls_y > ls_x (ratios 1.34–1.64).
   Inference : Sparse variational GP (SVGP), Hensman et al. 2015
-  Likelihood: BernoulliLikelihood (logit link)
+  Likelihood: BernoulliLikelihood (probit link)
 
 Evaluated per player against intercept-only reference.
 Metrics: log loss, Brier score, accuracy, ROC-AUC, ECE, Murphy decomposition.
