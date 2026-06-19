@@ -1,0 +1,16 @@
+player,model,k,n_train,train_log_loss,BIC,AIC,ΔBIC,ΔAIC
+Kevin Durant,intercept_only,1,7965,0.6931,11050.07,11043.08,982.84,1059.65
+Kevin Durant,binned_EB,2,7965,0.6383,10186.08,10172.12,118.85,188.68
+Kevin Durant,logistic_RBF,101,7965,0.6408,11115.21,10409.94,1047.98,426.51
+Kevin Durant,gp_location,4,7965,0.6424,10269.36,10241.43,202.13,258.0
+Kevin Durant,gp_context,12,7965,0.6252,10067.23,9983.44,0.0,0.0
+LeBron James,intercept_only,1,9034,0.6913,12499.52,12492.41,1675.89,1754.08
+LeBron James,binned_EB,2,9034,0.6033,10918.64,10904.42,95.01,166.1
+LeBron James,logistic_RBF,101,9034,0.6079,11903.52,11185.54,1079.89,447.21
+LeBron James,gp_location,4,9034,0.6084,11029.01,11000.57,205.38,262.25
+LeBron James,gp_context,12,9034,0.593,10823.63,10738.32,0.0,0.0
+Stephen Curry,intercept_only,1,8646,0.6916,11968.21,11961.15,490.67,524.43
+Stephen Curry,binned_EB,2,8646,0.6627,11477.54,11463.41,0.0,26.69
+Stephen Curry,logistic_RBF,101,8646,0.6645,12406.08,11692.53,928.55,255.81
+Stephen Curry,gp_location,4,8646,0.669,11604.61,11576.35,127.07,139.63
+Stephen Curry,gp_context,12,8646,0.66,11521.5,11436.72,43.96,0.0

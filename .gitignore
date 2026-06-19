@@ -1,0 +1,19 @@
+# Raw Kaggle dataset (818MB, too large for git, publicly available)
+data/NBA Shot Locations 1997 - 2020.csv
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# LaTeX build artifacts (if applicable)
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.synctex.gz

@@ -1,0 +1,4 @@
+player,train_log_loss,model,log_loss,brier,accuracy,roc_auc,ece,ll_skill_%,bs_skill_%,acc_skill_%,reliability,resolution,uncertainty
+Stephen Curry,0.66,gp_context,0.6778,0.2427,0.5642,0.5844,0.02895,2.0,2.64,6.97,0.001296,0.00694,0.249249
+LeBron James,0.593,gp_context,0.6027,0.21,0.6713,0.7132,0.011157,12.82,15.71,26.61,0.000933,0.040359,0.249087
+Kevin Durant,0.6252,gp_context,0.6393,0.2273,0.5922,0.6399,0.022543,7.76,9.07,16.78,0.000786,0.022986,0.249949

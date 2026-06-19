@@ -1,0 +1,16 @@
+player,restart_number,output_scale_spatial,output_scale_context,spatial_fraction,final_elbo,is_best_elbo
+Stephen Curry,1,1.5325,1.8971,0.4468,-0.6963,False
+Stephen Curry,2,2.3262,0.0602,0.9748,-0.6797,True
+Stephen Curry,3,1.9561,1.7473,0.5282,-0.6961,False
+Stephen Curry,4,0.5135,1.7289,0.2290,-0.6923,False
+Stephen Curry,5,0.7179,0.9107,0.4408,-0.6863,False
+LeBron James,1,1.5093,1.8623,0.4476,-0.6301,False
+LeBron James,2,2.3162,0.0827,0.9655,-0.6121,True
+LeBron James,3,1.9297,1.7128,0.5298,-0.6298,False
+LeBron James,4,0.5081,1.6985,0.2303,-0.6271,False
+LeBron James,5,0.7090,0.8893,0.4436,-0.6203,False
+Kevin Durant,1,1.5099,1.8588,0.4482,-0.6648,False
+Kevin Durant,2,2.3285,0.0775,0.9678,-0.6472,True
+Kevin Durant,3,1.9334,1.7090,0.5308,-0.6646,False
+Kevin Durant,4,0.4905,1.6964,0.2243,-0.6610,False
+Kevin Durant,5,0.6971,0.8880,0.4398,-0.6543,False

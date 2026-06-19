@@ -1,0 +1,7 @@
+player,simple_model,rich_model,ΔBIC,BF,favours
+Kevin Durant,intercept_only,gp_location,780.71,3.380823382120272e+169,gp_location
+LeBron James,intercept_only,gp_location,1470.51,inf,gp_location
+Stephen Curry,intercept_only,gp_location,363.6,9.010249353789995e+78,gp_location
+Kevin Durant,gp_location,gp_context,202.13,7.797794998703176e+43,gp_context
+LeBron James,gp_location,gp_context,205.38,3.960047056944184e+44,gp_context
+Stephen Curry,gp_location,gp_context,83.11,1.1145696052213531e+18,gp_context
